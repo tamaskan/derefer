@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<info>
+	<id>derefer</id>
+	<name>Derefer</name>
+	<description>Derefer external Links</description>
+	<version>1.0</version>
+	<licence>AGPL</licence>
+	<author>masterxa</author>
+	<require>4</require>
+</info>
